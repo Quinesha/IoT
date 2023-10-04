@@ -124,3 +124,10 @@ Wait until the code has uploaded anddd watch the magic happen!
 
 ## My mistakes
 None, everything went exactly the way I needed it to
+
+
+## Sources
+- My own imagination
+- ChatGPT
+- https://docs.google.com/document/d/1l_9xpU-n7Rhxj-L3wI72Kvc3GQ9q6tFl955J2NTYF9k/edit
+- https://docs.google.com/document/d/14jhaxaJUhuu0p6_u_oNj8_50Y6PAmtrvcePtKc0HDGs/edit
