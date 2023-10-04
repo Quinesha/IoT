@@ -6,7 +6,7 @@ Stel de LEDstrip kleur via een colorpicker in via Adafruit IO. adafruit IO .
 Dit is een andere library dan Fastled, er bestaan meerdere libraries (software) voor dezelfde hardware. 
 Soms is de ene meer geschikt voor wat jij wil, soms de andere.
 
-## Stap 1 
+## Step 1 
 Collect the required components.
 In this case we'll require
 
